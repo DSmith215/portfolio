@@ -1,10 +1,12 @@
+---
 layout: home
+title: Data Analyst
+---
 
 # Data Analyst
 
-### Education
-* BS. Computational Social Science - University of Pittsburgh
+## Education
 
-### Work Experience
+## Work Experience
 
-### Projects
+## Projects
