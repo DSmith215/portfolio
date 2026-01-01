@@ -1,3 +1,5 @@
+layout: home
+
 # Data Analyst
 
 ### Education
