@@ -6,8 +6,10 @@ title: Data Analyst
 # Data Analyst
 
 ## Education
-*test 1
+* Test 1
+
 ## Work Experience
-*test 2
+* Test 2
+
 ## Projects
-*test 3
+* Test 3
